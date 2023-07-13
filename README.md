@@ -6,10 +6,11 @@ _anyways..._
 - 🤢 Please don't have an Anime profile picture
 - 💞️ I’m looking to collaborate on: ~issues~ depends, open source <3
 - 📫 How to reach me: ~you probably can't;~ Please use secure communication and don't send personal information without E2EE.
-- 🤝 Words shouldn't be wasted, which also means
+- 🤝 Words shouldn't be wasted, which also means:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=time;time+%3E%3D+money)](#)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=talk+is+cheap%2C;talk+is+cheap%2C+show+me+the+code)](#)
+<div align = "center">
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=time;time+%3E%3D+money" alt="Typing SVG" /></a>
+</div>
 
 <br>
 <div align="center">
@@ -24,4 +25,8 @@ _anyways..._
   <a href = "https://github.com/bioluks" target="_blank"><img src="https://img.shields.io/badge/MicrosoftHub-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/meriicistyle" target="_blank"><img src="https://img.shields.io/badge/Titter-aka_Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <!-- <a href = "https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+</div><br>
+
+<div align = "center">
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=talk+is+cheap%2C;talk+is+cheap%2C+show+me+the+code" alt="Typing SVG" /></a>
 </div>
