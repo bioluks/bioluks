@@ -3,16 +3,23 @@
 _anyways..._
 - 👀 I’m interested in reduced bloat and effectiveness
 - 🌱 I’m currently learning too many things
-- 🤢 Please don't have an Anime profile picture
+- 🤢 Please don't have an Anime or Memoji profile picture, be better **cringe*
 - 💞️ I’m looking to collaborate on: ~issues~ depends, open source <3
 - 📫 How to reach me: ~you probably can't;~ Please use secure communication and don't send personal information without E2EE.
 - 🤝 Words shouldn't be wasted, which also means:
 
 <div align = "center">
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=time;time+%3E%3D+money" alt="Typing SVG" /></a>
-</div>
+</div><br>
+
+```text
+OpSec, Docker/Podman
+JavaScript (Vanilla, Svelte), Java, C (Beginner)
+Intermediate Pentesting, exploiting phones and Desktops (mainly Windows)
+```
 
 <br>
+<p align="center"><i> - Lots of my repos are not on GitHub - </i></p><br>
 <div align="center">
   <a href="https://github.com/bioluks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bioluks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
