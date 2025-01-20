@@ -27,7 +27,7 @@ Intermediate Pentesting, exploiting phones and Desktops (mainly Windows)
 </div>
 <br>
 <div align = "center">
-  <a href = "mailto:hello@meric.pro"><img src="https://img.shields.io/badge/-E--Mail-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
+  <a href = "mailto:himself@mericask.in"><img src="https://img.shields.io/badge/-E--Mail-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/meriicistyle" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/bioluks" target="_blank"><img src="https://img.shields.io/badge/MicrosoftHub-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/meriicistyle" target="_blank"><img src="https://img.shields.io/badge/Titter-aka_Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
